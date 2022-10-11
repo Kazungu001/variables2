@@ -1,4 +1,9 @@
-def my_method(param)
-    puts "Running my_method"
-    param +1
+# def my_method(param)
+#     puts "Running my_method"
+#     param +1
+# end
+
+def gimme_bacon
+    puts "Bacon please"
 end
+gimme_bacon
